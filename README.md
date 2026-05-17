@@ -1,5 +1,4 @@
 # Racines-V3
-[racines-v3-final.html](https://github.com/user-attachments/files/27866379/racines-v3-final.html)
 <!DOCTYPE html>
 <html lang="fr">
 <head>
